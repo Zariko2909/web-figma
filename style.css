@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:antiquewhite;
+}
+nav h4{
+    padding: 35px;
+    display: inline-block;
+margin-left: 35px;
+margin-top: 25px;
+color: orangered;
+}
+.home{
+    display: inline-block;
+margin-left: 350px;
+}
+.home:hover{
+    color: orangered;
+}
+.ser{
+    display: inline-block;
+    margin-left: 70px;
+}
+.ser:hover{
+    color: orangered;
+}
+.port{
+    display: inline-block;
+    margin-left: 70px;
+}
+.port:hover{
+    color: orange;
+}
+.blog{
+    display: inline-block;
+    margin-left: 70px;
+}
+.blog:hover{
+    color: orangered;
+}
+.cont{
+    display: inline-block;
+    margin-left: 400px;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+border-radius: 6px;
+border-style: none;
+}
+.div1{
+    display: inline-block;
+    width: 500px;
+    height: 350px;
+}
+
+.text{
+    margin-left: 40px;
+padding: 15px;
+
+}
+.div2{
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+
+vertical-align: top;
+}
+.img1{
+   border-image: none;
+   margin-left: 230px;
+   width: 500px;
+   height: 350px;
+}
+.free{
+    display: block;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+border-radius: 6px;
+border-style: none;
+margin-left: 55px;
+}
+h2{
+    text-align: center;
+}
+div{
+    display: inline-block;
+}
+.div3{
+    display: inline-block;
+border: 1px solid gray;
+width: 1200px;
+height: 60%;
+margin-left: 50px;
+margin-top: 25px;
+padding: 35px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    padding: 10px;
+    margin: 25px;
+border-radius: 5px;
+margin-left: 230px;
+}
+
+.img3{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 5px;
+    margin-left: 230px;
+}
+.img4{
+    width: 50px;
+    height: 50px;
+    background-color: orangered;
+    padding: 10px; 
+    margin: 25px;
+border-radius: 5px;
+margin-left: 230px;
+
+}
+.text1{
+    margin-left: 230px;
+
+}
+.text2{
+    margin-left: 190px;
+
+}
+.text3{
+    margin-left: 230px;
+
+}
+.text4{
+    margin-left: 200px;
+
+}
+
+.text5{
+    margin-left: 230px;
+    
+}
+.text6{
+    margin-left: 210px;
+}
+
+
+h4{
+text-align: center;
+}
+.section1{
+margin-left: 120px;
+margin-bottom: 15px;
+}
+.section2{
+    margin-left: 120px;
+    background-color: orangered;
+    margin-bottom: 15px;
+ }
+.section3{
+    margin-left: 120px;
+margin-bottom: 15px;
+}
+.text7{
+    width: 170px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+.web{
+    display: inline-block;  
+width: 300px;
+height: 200px;
+background-color: aliceblue;
+margin-left: 80px;
+margin-top: 50px;
+padding: 10px;
+margin-bottom: 20px;
+}
+.next{
+    margin-left: 120px;
+
+}
+.page{
+    width: 380px;
+
+    background-color: aliceblue;
+    margin-left: 45px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+
+}
+.pag{
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.pagee{
+    width: 380px;
+}
+.pagg{
+background-color: orangered;
+color: white;
+border-style: none;
+border-radius: 5px;
+padding: 10px;
+margin-left: 650px;
+margin-top: 15px;
+}
+.meet{
+    width: 280px;
+ text-align: center;
+    margin-left: 50px;
+}
+.info{
+    display: inline-block;
+width: 800px;
+margin-left: 250px;
+
+}
+label{
+    width: 250px;
+    margin-left: 10px;
+margin-bottom: 15px;    
+}
+input{
+    width: 350px;
+    height: 50px;
+    border-style: none;
+    margin-right: 45px;
+    padding: 10px;
+}
+textarea{
+    width: 750px;
+    height: 150px;
+    border-style: none;
+    padding: 10px;
+}
+.submit{
+         background-color: orangered;
+      width: 180px;
+      height: 50px;
+      color: white;      
+    border-style: none;
+border-radius: 5px;
+margin-top: 15px;
+margin-left: 575px;
+}
+footer{
+    margin: 65px;
+    width: 1400px;
+    height: 280px;
+
+}
+.des{
+    width: 300px;
+    height: 120px;
+    vertical-align: top;
+}
+.cat{
+    width: 250px;
+    height: 120px;
+    margin-left: 45px;
+}
+.abt{
+    width: 250px;
+    height: 120px;
+    margin-left: 45px;
+}
+.news{
+    width: 300px;
+    height: 120px;
+    vertical-align: top;
+}
+.subc{
+    width: 350px;
+    height: 50px;
+    border-style: none;
+    margin-right: 45px;
+    padding: 10px;
+    background-color: orangered;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 15px;
+}
+hr{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 1300px;
+}
